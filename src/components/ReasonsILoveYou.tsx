@@ -2,13 +2,13 @@ import { Heart } from "lucide-react";
 
 const reasons = [
   "Your beautiful smile that lights up my day ✨",
-  "The way you laugh at my silly jokes 😂",
-  "How you always know how to cheer me up 🌈",
+  "If forever has a face, it looks a lot like you ❤️",
+  "With you, even silence feels warm and comforting.",
   "Your kindness and caring heart 💕",
   "The sparkle in your eyes when you're happy 🌟",
   "How you make every moment special 🎀",
-  "Your amazing sense of humor 😊",
-  "The way you believe in me 💪",
+  "You don’t just light up my life—you are the light.",
+  "You’re my favorite thought, even on my busiest days.",
   "How comfortable I feel around you 🏠",
   "Simply because you're YOU! 💖",
 ];
